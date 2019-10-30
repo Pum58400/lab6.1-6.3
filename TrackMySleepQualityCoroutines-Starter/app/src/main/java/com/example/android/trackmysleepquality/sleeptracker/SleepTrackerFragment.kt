@@ -81,5 +81,6 @@ class SleepTrackerFragment : Fragment() {
             }
         })
         return binding.root
+
     }
 }
